@@ -4,7 +4,7 @@
 
     <p>You want to quickly show case your application to a friend, potential users or to launch a simple MVP out there but stuck up with multiple options of hosting platforms, pricing, domain name and endless of other relating components like SSL.</p>
   
-    <p>You are not alone, I navigate these hoodles every single time I want to put something out there and it takes a huge chunk of my development time.</p>
+    <p>You are not alone, I navigate these hurdles every single time I want to put something out there and it takes a huge chunk of my development time.</p>
 
     <p>In this article, I will show you how to deploy a static nuxt site to Cloudflare in less than 5 minutes. You can use any development stack or framework but here I will be using <NuxtLink to="https://nuxt.com/">Nuxt</NuxtLink>.</p>
 
